@@ -1,0 +1,17 @@
+,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,img_number,ID,color_id,frame,track,batch,pass,environment,bee_range,filepath,background,reID,color_num
+0,0,0,0,0,74,blue-blue,13869,83,2,,in-lab,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-in-lab-65-96_batch_2.mp4.mp4.track000083.frame013869.jpg,blue,74,0
+1,1,1,1,1,74,blue-blue,19462,162,2,2.0,outside,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-65-96_batch_2_pass_2.mp4.mp4.track000162.frame019462.jpg,white,74,0
+2,2,2,2,2,83,green-green,24040,333,2,1.0,outside,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-65-96_batch_2_pass_1.mp4.mp4.track000333.frame024040.jpg,blue,83,9
+3,3,3,3,3,83,green-green,23574,326,2,1.0,outside,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-65-96_batch_2_pass_1.mp4.mp4.track000326.frame023574.jpg,white,83,9
+4,4,4,4,4,119,lillac-lillac,36951,391,2,1.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_1.mp4.mp4.track000391.frame036951.jpg,blue,119,18
+5,5,5,5,5,119,lillac-lillac,36038,373,2,1.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_1.mp4.mp4.track000373.frame036038.jpg,white,119,18
+6,6,6,6,6,110,orange-orange,21013,88,2,2.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_2.mp4.mp4.track000088.frame021013.jpg,blue,110,27
+7,7,7,7,7,110,orange-orange,21363,90,2,2.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_2.mp4.mp4.track000090.frame021363.jpg,white,110,27
+8,8,8,8,8,92,pink-pink,35343,456,2,1.0,outside,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-65-96_batch_2_pass_1.mp4.mp4.track000456.frame035343.jpg,blue,92,36
+9,9,9,9,9,92,pink-pink,52059,523,2,2.0,outside,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-65-96_batch_2_pass_2.mp4.mp4.track000523.frame052059.jpg,white,92,36
+10,10,10,10,10,128,red-red,53284,507,2,1.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_1.mp4.mp4.track000507.frame053284.jpg,blue,128,45
+11,11,11,11,11,128,red-red,46280,254,2,2.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_2.mp4.mp4.track000254.frame046280.jpg,white,128,45
+12,12,12,12,12,101,white-white,9162,31,2,2.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_2.mp4.mp4.track000031.frame009162.jpg,blue,101,54
+13,13,13,13,13,101,white-white,8586,29,2,2.0,outside,97-128,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-outside-97-128_batch_2_pass_2.mp4.mp4.track000029.frame008586.jpg,white,101,54
+14,14,14,14,14,65,yellow-yellow,1112,4,2,,in-lab,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-in-lab-65-96_batch_2.mp4.mp4.track000004.frame001112.jpg,blue,65,63
+15,15,15,15,15,65,yellow-yellow,795,3,2,,in-lab,65-96,/home/gsantiago/summer_bee_data/summer_bee_data/images/young-adults-white-blue-in-lab-65-96_batch_2.mp4.mp4.track000003.frame000795.jpg,white,65,63
